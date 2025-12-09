@@ -90,7 +90,7 @@ Button.MouseButton1Click:Connect(function()
        ["D2F4G6H8"] = {user = "dasima", expire = "2030-12-31"},
        ["J1K3L5M7"] = {user ="CN_ylwhnb", expire = "2030-12-31"},
        ["N9B7V5C3"] = {user = "iiiii11111iiiii6", expire = "2030-12-31"},
-       ["X8Z6D4F2"] = {user = "用户名", expire = "2030-12-31"},
+       ["X8Z6D4F2"] = {user = "hvgjcigvjg", expire = "2030-12-31"},
        ["X1Z6D4k6"] = {user = "用户名", expire = "2030-12-31"},
        ["X8h6D4F0"] = {user = "用户名", expire = "2030-12-31"},
        ["h5Z6D4D2"] = {user = "用户名", expire = "2030-12-31"}
